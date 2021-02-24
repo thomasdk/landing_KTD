@@ -71,19 +71,19 @@ subtitle = ""
 
 - Online Talk 10.10.2020
 Mid-term Conference of Research Network 21 “Quantitative Methods” of the European Sociological Association Quantitative Approaches
-to Analyzing Social Change 
-Topic: "The performance of multiple indicator growth mixture models"
+to Analyzing Social Change, 
+Topic: "The performance of multiple indicator growth mixture models",
 Session 5: Statistical Techniques for Identifying and Explaining Social Change
 
 - Online Guest Lecture, 03.07.2020
-Topic:"Ausgewählte Machine Learning-Verfahren zur human- und sozialwissenschaftlichen Datenanalyse"
-Technischen Universität Chemnitz, (Germany)
-MethodenKompetenzZentrum
+Topic:"Ausgewählte Machine Learning-Verfahren zur human- und sozialwissenschaftlichen Datenanalyse",
+Technischen Universität Chemnitz, (Germany),
+MethodenKompetenzZentrum,
 Prof. Dr. Jochen Mayerl
 
-- Talk, 28.01.2020
-Topic: Machine Learning basierte Response Style Identifikation: eine Pilotstudie"
-Kolloquium "Forschungsfragen der Computational Social Science"
-of Prof. Dr. Raphael H. Heiberger
+- Talk, 28.01.2020,
+Topic: Machine Learning basierte Response Style Identifikation: eine Pilotstudie",
+Kolloquium "Forschungsfragen der Computational Social Science",
+of Prof. Dr. Raphael H. Heiberger,
 University of Stuttgart, (Germany)
 
