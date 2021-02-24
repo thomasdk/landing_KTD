@@ -41,6 +41,24 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
+  name = "Mplus"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "EQS"
+  description = "Advanced"
+
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "AMOS"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
   name = "SPSS"
   description = "Advanced"
   
