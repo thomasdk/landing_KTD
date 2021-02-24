@@ -12,10 +12,11 @@ bio: Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social
   methods of empirical social research, statistical learning and modeling,
   longitudinal analysis methods, and prejudice research.
 interests:
+  - Sociological Method Research
   - Quantitative Social Research
   - Machine Learning
   - Statistical Analysis
-  - Longitudinal Analysis Longitudinal Analysis
+  - Longitudinal Analysis
   - Multilevel Analysis
 social:
   - icon: envelope
@@ -33,11 +34,11 @@ education:
       institution: University of Stuttgart
     - course: Master of Arts, Empirical Political and Social Research
       institution: University of Stuttgart
-      year: 2010
+      year: 2013
     - course: Bachelor of Arts, Social Sciences
       year: 2010
       institution: University of Stuttgart
-email: ""
+email: thomas.krause@sowi.uni-stuttgart.de
 user_groups:
   - Researchers
   - Visitors
