@@ -45,14 +45,8 @@ subtitle = ""
   description = "Advanced"
   
 [[feature]]
-  icon = "file-code"
-  icon_pack = "fas"
-  name = "SPSS"
-  description = "Advanced"
-  
-[[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "Basic"
 
