@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Popular Topics"
+title = "Past Research Topics"
 subtitle = ""
 
 [content]
@@ -24,5 +24,9 @@ subtitle = ""
 - Response Style
 - Indirect Questioning Techniques
 - Structural Equation Modeling
+- Measurement Invariance
 - Machine Learning / Statistical Learning
 - Growth Mixture Models
+- Hybrid Panel Models
+- Ingroup/Outgroup Attitudes
+- Subjective Well-Being
