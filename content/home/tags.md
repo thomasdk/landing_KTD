@@ -20,3 +20,9 @@ subtitle = ""
   font_size_min = 0.7
   font_size_max = 2.0
 +++
+
+- Response Style
+- Indirect Questioning Techniques
+- Structural Equation Modeling
+- Machine Learning / Statistical Learning
+- Growth Mixture Models
