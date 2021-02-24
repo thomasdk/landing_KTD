@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Thomas Krause
+title: Dr. Thomas Krause
 role: Research Associate
 bio: Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social
   Sciences at the University of Stuttgart. His core research areas include
@@ -43,3 +43,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social Sciences at the University of Stuttgart. His core research areas include methods of empirical social research, statistical learning and modeling, longitudinal analysis methods, and prejudice research.
