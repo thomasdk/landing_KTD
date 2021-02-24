@@ -31,6 +31,31 @@ subtitle = ""
   icon_pack = "fas"
   name = "Latex"
   description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "STATA"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "SPSS"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "SPSS"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "Basic"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
