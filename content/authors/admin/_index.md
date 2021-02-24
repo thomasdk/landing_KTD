@@ -36,6 +36,7 @@ education:
   courses:
     - course: Dr. rer. pol. (rerum politicarum)
       institution: University of Stuttgart
+      year: 2019
     - course: Master of Arts, Empirical Political and Social Research
       institution: University of Stuttgart
       year: 2013
