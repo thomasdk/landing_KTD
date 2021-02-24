@@ -22,7 +22,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: mailto:thomas.krause@sowi.uni-stuttgart.de
   - icon: github
     icon_pack: ai
     link: https://github.com/thomasdk
