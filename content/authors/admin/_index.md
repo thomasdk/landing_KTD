@@ -32,7 +32,7 @@ social:
   - icon_pack: fab
     icon: orcid
     link: https://orcid.org/0000-0002-4155-1621
-  - link: osf.io/sfy4k
+  - link: https://osf.io/sfy4k/
     icon_pack: ai
     icon: osf
 education:
