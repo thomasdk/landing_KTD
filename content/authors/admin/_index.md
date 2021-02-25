@@ -46,7 +46,7 @@ education:
     - course: Bachelor of Arts, Social Sciences
       year: 2010
       institution: University of Stuttgart
-email: thomas.krause@sowi.uni-stuttgart.de
+email: thomasdk@web.de
 user_groups:
   - Researchers
   - Visitors
