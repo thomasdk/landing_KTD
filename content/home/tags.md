@@ -27,6 +27,7 @@ subtitle = ""
 - Measurement Invariance
 - Machine Learning / Statistical Learning
 - Growth Mixture Models
+- Monte Carlo Simulation Methods
 - Hybrid Panel Models
 - Ingroup/Outgroup Attitudes
 - Subjective Well-Being
