@@ -35,6 +35,12 @@ subtitle = ""
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
+  name = "Slurm (cluster workload management)"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
   name = "STATA"
   description = "Advanced"
   
