@@ -7,7 +7,7 @@ authors:
   - admin
 title: Dr. Thomas Krause
 role: Research Associate
-avatar_filename: crop.png
+avatar_filename: avatar1.jpg
 bio: Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social
   Sciences at the University of Stuttgart. His core research areas include
   methods of empirical social research, statistical learning and modeling,
