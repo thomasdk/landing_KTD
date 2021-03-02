@@ -21,7 +21,7 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-- Response Style
+- Response Styles
 - Indirect Questioning Techniques
 - Structural Equation Modeling
 - Measurement Invariance
