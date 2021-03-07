@@ -76,13 +76,13 @@ Topic: "The performance of multiple indicator growth mixture models",
 Session 5: Statistical Techniques for Identifying and Explaining Social Change
 
 - Online Guest Lecture, 03.07.2020
-Topic:"Ausgewählte Machine Learning-Verfahren zur human- und sozialwissenschaftlichen Datenanalyse",
+Topic: "Ausgewählte Machine Learning-Verfahren zur human- und sozialwissenschaftlichen Datenanalyse",
 Technischen Universität Chemnitz, (Germany),
-MethodenKompetenzZentrum,
+MethodenKompetenzZentrum, 
 Prof. Dr. Jochen Mayerl
 
 - Talk, 28.01.2020,
-Topic: Machine Learning basierte Response Style Identifikation: eine Pilotstudie",
+Topic: "Machine Learning basierte Response Style Identifikation: eine Pilotstudie",
 Kolloquium "Forschungsfragen der Computational Social Science",
 of Prof. Dr. Raphael H. Heiberger,
 University of Stuttgart, (Germany)
