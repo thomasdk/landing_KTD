@@ -15,8 +15,8 @@ header:
 ---
 
 ## summer semester 2021:
-Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
-Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
+- Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
+- Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
 
 ## winter semester 2020/2021:
 - Statistische Modellbildung: Statistische Modellbildung I (seminar)
@@ -24,8 +24,8 @@ Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
 - Bachelor-, Master- und Promotions-Kolloquium (Kolloquium)
 
 ## summer semester 2020:
-Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
-Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
+- Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
+- Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
 
 ## winter semester 2019/2020:
 - Statistische Modellbildung: Statistische Modellbildung I (seminar)
