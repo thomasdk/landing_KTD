@@ -73,6 +73,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "Basic"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Basic"
 
 
 # Uncomment to use emoji icons.
