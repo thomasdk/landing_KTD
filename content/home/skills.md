@@ -75,7 +75,7 @@ subtitle = ""
   description = "Basic"
   
 [[feature]]
-  icon = "git"
+  icon = "git-alt"
   icon_pack = "fab"
   name = "Git"
   description = "Basic"
