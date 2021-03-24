@@ -31,23 +31,8 @@ projects: []
 publishDate: '2021-03-24T13:53:29.779512Z'
 publication_types:
 - '2'
-abstract: Response Styles stellen eine Herausforderung für die empirische Surveyforschung
-  dar. Antwortverhalten, welches nicht mit dem Inhalt der Frage assoziiert ist, kann
-  nicht nur Anteils- und Durchschnittswerte beeinflussen, sondern auch modellbasierte
-  Parameterschätzung verzerren. In dieser Pilotstudie soll der Frage nachgegangen
-  werden, ob sich über Machine Learning Verfahren ein empirisch basierter Ansatz zu
-  einheitlichen Identifikation von den gängigsten Response Style Mustern konstruieren
-  lässt. Dies soll aufwändige Kontrollverfahren, welche jeweils nur einzelne Muster
-  finden können oder mit erheblichem Mehraufwand verbunden sind, ersetzen und somit
-  eine universellere und praxistauglichere Option zu bisherigen Ansätzen darstellen.
-  Der hier dargelegte Ansatz basiert auf der Kalibrierung des ML-Verfahrens anhand
-  von synthetisierten Daten, welche der formalen Definition von Response Styles (RS)
-  entsprechen und einem Anteil von empirischen Daten (European Social Survey), welche
-  nicht von RS betroffen sind. Das hierauf trainierte Modell kann auf empirisch erhobene
-  Daten angewendet werden, um RS-Muster in Survey-Daten zuverlässig entdecken und
-  bearbeiten zu können. Die Ergebnisse der Studie legen mit Fehlerklassifikationsraten
-  von 0.3 bis 3.5 % den ML-Ansatz als eine vielversprechende Alternative zu bisherigen
-  Verfahren nahe.
+abstract: RResponse styles represent a challenge for empirical survey research. Response behavior which is not associated with the content of a survey question can not only influence proportional and average values but also distort model-based parameter estimation. In this pilot study we investigate whether machine learning (ML) methods can be used to construct an empirically based approach to a uniform identification of the most common response style patterns. This method could replace more complex control procedures, which can only find some patterns or are associated with considerable additional effort. Our approach could, therefore, be a more universal and practical option.
+The method presented here is based on the calibration of the ML model using synthesized data that correspond to a formal definition of response styles (RS) and a proportion of empirical data (European Social Survey) which is not affected by RS. The trained model can then be applied to empirically collected data in order to reliably detect and process RS patterns in survey data. With error classification rates of 0.3 to 3.5 %, the results of this study suggest that our ML-based response style detection is a promising alternative to previous methods
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
 doi: r̆l10.18419/opus-10874

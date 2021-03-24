@@ -31,16 +31,7 @@ projects: []
 publishDate: '2021-03-24T13:53:29.150177Z'
 publication_types:
 - '2'
-abstract: Dieser Beitrag beschreibt, wie Mehrebenenmodelle zur Längsschnittanalyse
-  mit Panel-Daten eingesetzt werden können. Besondere Aufmerksamkeit wird dabei sog.
-  Hybridmodellierungen geschenkt, welche einige Vorteile von Fixed-Effect- und Random-Effects-Panelregressionen
-  miteinander kombinieren. Es werden grundlegende Konzepte von Mehrebenenanalyse (MLA)
-  und Panelanalyse vorgestellt, aber auch Besonderheiten wie z.B. die Variablenzentrierung
-  in Längsschnittuntersuchungen verdeutlicht. Der konkrete Analyseablauf einer solchen
-  Analyse wird schrittweise anhand eines Beispiels mit den Daten des Sozio-oekonomischen
-  Panels und der SPSS-MIXED-Software aufgezeigt. Jede/-r Sozialforscher/-in sollte
-  nach der Lektüre dieses Beitrags dazu befähigt sein, seine/ihre erste eigene Längsschnittanalyse
-  unter Zuhilfenahme einer Mehrebenenmodellierung durchzuführen.  This paper describes
+abstract: This paper describes
   how to use multi-level models for longitudinal studies with panel data. A special
   focus is set on the specification and estimation of hybrid models combining some
   advantages of models for fixed-effect and random-effects panel regression. The paper

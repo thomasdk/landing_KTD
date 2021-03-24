@@ -31,19 +31,7 @@ projects: []
 publishDate: '2021-03-24T13:53:29.615470Z'
 publication_types:
 - '2'
-abstract: In dieser Arbeit werden Informationskriterien für die Klassenidentifikation
-  im Rahmen von Multiple Indicator Growth Mixture Modellen evaluiert. Diese Identifikation
-  von latenten Verlaufsklassen wird unter den Simulationsbedingungen von fehlender
-  Invarianz der Messung und unterschiedlichen Klassendistanzen bewertet. Die dabei
-  verwendeten Daten basieren auf einer Monte-Carlo-Simulationsstudie. Dieses Paper
-  erweitert bisherige Ergebnisse dahingehend, dass ein breiteres Spektrum an IC-Indizes
-  evaluiert wird. Dabei werden alle bisher vorgeschlagenen IC-Maße auf ihre Fähigkeit
-  zur Klassenidentifikation untersucht und mit neueren Vorschlägen in Bezug gesetzt.
-  Darunter auch der Hierarchical BIC, welcher die latente Klassenstruktur explizit
-  bei seiner Berechnung berücksichtigt. Die Auswertungen der Simulationsergebnisse
-  zeigen, dass der Hierarchical BIC eine gänzlich andere Indentifikationsstruktur
-  aufweist als alle anderen betrachten IC-Indizes und besonders bei geringer Distanz
-  zwischen den Verlaufsklassen vergleichsweise gute Ergebnisse liefert.  This paper
+abstract: This paper
   evaluates information criteria for class identification in multiple indicator growth
   mixture models. This identification of latent classes is evaluated under the simulation
   conditions of missing invariance of the measurement and different class distances.
