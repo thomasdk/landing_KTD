@@ -13,7 +13,10 @@ header:
   caption: ""
   image: ""
 ---
-<font size="1"> 
+<font size="3">
+
+
+
 ## summer semester 2021:
 - Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
 - Angewandte Forschungsmethodik II: Strukturgleichungsmodellierung II (seminar)
