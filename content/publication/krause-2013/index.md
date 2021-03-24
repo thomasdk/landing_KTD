@@ -31,7 +31,7 @@ projects: []
 publishDate: '2021-03-24T13:53:29.150177Z'
 publication_types:
 - '2'
-abstract: This paper describes
+abstract: 'This paper describes
   how to use multi-level models for longitudinal studies with panel data. A special
   focus is set on the specification and estimation of hybrid models combining some
   advantages of models for fixed-effect and random-effects panel regression. The paper
@@ -41,7 +41,7 @@ abstract: This paper describes
   multi-level-model approach using the data of the SOEP (the national German socio-economic
   panel study) and the SPSS-MIXED-software. After reading this paper every social
   research scholar should be able to perform his/her first longitudinal analysis by
-  multi-level modeling.
+  multi-level modeling.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
 doi: r̆l10.18419/opus-5649

@@ -31,7 +31,7 @@ projects: []
 publishDate: '2021-03-24T13:53:29.615470Z'
 publication_types:
 - '2'
-abstract: This paper
+abstract: 'This paper
   evaluates information criteria for class identification in multiple indicator growth
   mixture models. This identification of latent classes is evaluated under the simulation
   conditions of missing invariance of the measurement and different class distances.
@@ -42,7 +42,7 @@ abstract: This paper
   takes the latent class structure into account. The evaluations of the simulation
   results show that the Hierarchical BIC has a completely different identification
   structure than all other IC-Indices and provides comparatively good results with
-  small distances between the latent classes.
+  small distances between the latent classes.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
 doi: r̆l10.18419/opus-10599
