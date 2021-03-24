@@ -44,5 +44,5 @@ abstract: 'This paper describes
   multi-level modeling.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
-doi: r̆l10.18419/opus-5649
+doi: 10.18419/opus-5649
 ---

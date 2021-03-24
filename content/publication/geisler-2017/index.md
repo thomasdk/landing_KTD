@@ -35,8 +35,8 @@ projects: []
 publishDate: '2021-03-24T13:53:28.989564Z'
 publication_types:
 - '2'
-abstract: 'The working paper summarizes the results of a vignette experiment (factorial survey) about threat perceptions in everyday situations. A student research project investigated the possible existence of associations between an outgroup’s visible characteristics (e.g., ethnicity and gender) and threat perceptions,  together  with  dependencies  on varying social contexts and  respondents’  properties.  The  analyses  are  based  on data from  a  student  online  survey.  Multi-level  models  that  account  for  the  hierarchical data structure confirm the hypotheses derived by theory, albeit further variables which influence the survey response and introduce measurement error need to be considered in future research.' 
+abstract: 'The working paper summarizes the results of a vignette experiment (factorial survey) about threat perceptions in everyday situations. A student research project investigated the possible existence of associations between an outgroup’s visible characteristics (e.g., ethnicity and gender) and threat perceptions,  together  with  dependencies  on varying social contexts and  respondents’  properties.  The  analyses  are  based  on data from  a  student  online  survey.  Multi-level  models  that  account  for  the  hierarchical data structure confirm the hypotheses derived by theory, albeit further variables which influence the survey response and introduce measurement error need to be considered in future research.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
-doi: r̆l10.18419/opus-9579
+doi: 10.18419/opus-9579
 ---

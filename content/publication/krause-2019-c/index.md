@@ -45,5 +45,5 @@ abstract: 'This paper
   small distances between the latent classes.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
-doi: r̆l10.18419/opus-10599
+doi: 10.18419/opus-10599
 ---

@@ -48,5 +48,5 @@ abstract: 'Aus verschiedenen Perspektiven wird in dieser Festschrift zu Ehren vo
   in der Forschungspraxis: Erhebungsmethoden und Analyseverfahren • Längsschnittliche
   Analyseverfahren der Einstellungs- und Verhaltensforschung'
 publication: '*Springer VS*'
-url_pdf: r̆lhttp://www.springer.com/
+url_pdf: https://link.springer.com/book/10.1007/978-3-658-16348-8
 ---

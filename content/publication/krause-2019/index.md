@@ -34,5 +34,5 @@ publication_types:
 - '6'
 abstract: 'Dieser Beitrag veranschaulicht am Beispiel der sozialen Exklusion von Kindern und Jugendlichen das Analyseverfahren der „Multiple Indicator Growth Mixture Models“ (MIGMMs). Diese, für Längsschnittdaten konzipierte, Analysemethode ermöglicht es latente Klassenentwicklungsverläufe, unter Kontrolle von Prädiktoren, explorativ zu identifizieren und darüber hinaus den Einfluss dieser Entwicklungsverläufe auf mögliche Folgen (distal outcomes) zu überprüfen. Die vorliegenden Resultate stehen teilweise im Widerspruch zu den, aus der Literatur in diesem Forschungsbereich stammenden Ergebnissen. Es hat sich gezeigt, dass die Entwicklungsverläufe der zwei identifizierten Klassen über die Zeit hinweg homogen bleiben und die üblicherweise vorgeschlagenen Risikofaktoren (Prädiktoren) keinen nennenswerten Einfluss auf die Klassenzugehörigkeit haben. Die Ergebnisse dieses Beitrags zeigen die Leistungsfähigkeit – aber auch Grenzen und mögliche Probleme – dieses dynamischen Ansatzes für die Einstellungsund Verhaltensforschung, welcher die Ergebnisse herkömmlicher Verfahren um zusätzliche Perspektiven bereichern kann.'
 publication: '*Einstellungen und Verhalten in der empirischen Sozialforschung*'
-doi: r̆l10.1007/978-3-658-16348-8textunderscore 16
+doi: 10.1007/978-3-658-16348-8_16
 ---

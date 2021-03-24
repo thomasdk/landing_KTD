@@ -35,5 +35,5 @@ abstract: 'Response styles represent a challenge for empirical survey research. 
 The method presented here is based on the calibration of the ML model using synthesized data that correspond to a formal definition of response styles (RS) and a proportion of empirical data (European Social Survey) which is not affected by RS. The trained model can then be applied to empirically collected data in order to reliably detect and process RS patterns in survey data. With error classification rates of 0.3 to 3.5 %, the results of this study suggest that our ML-based response style detection is a promising alternative to previous methods.'
 publication: '*SISS: Schriftenreihe des Instituts für Sozialwissenschaften der Universität
   Stuttgart*'
-doi: r̆l10.18419/opus-10874
+doi: 10.18419/opus-10874
 ---

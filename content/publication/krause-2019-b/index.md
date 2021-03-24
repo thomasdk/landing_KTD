@@ -36,5 +36,5 @@ MIGMMs are thus analytical tools for empirical social research, which consider t
 This simulation study aims to systematically evaluate the performance of MIGMMs under different data situations, focusing in particular on temporal, group-specific and combined invariance violations of the latent measurement models.
 The following conditions were manipulated: measurement invariance of the latent constructs, class distance, mixing proportion and the number of observations. It is shown that especially the class distance between the latent growth groups and the violations of the measurement invariance between the latent groups have an influence on the performance of MIGMMs regarding class identification, coefficient estimates and standard error calculation. Based on these results, it is recommended to use MIGMMs only for large and distinct differences in the growth pattern and only for latent constructs with established reliability for group differences. The results of this study are intended to guide the research practice of empirical social research and provide recommendations for the use of this new analytic tool for longitudinal studies.'
 publication: '*Universität Stuttgart*'
-doi: r̆l10.18419/opus-10420
+doi: 10.18419/opus-10420
 ---
