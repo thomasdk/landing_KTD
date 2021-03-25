@@ -13,7 +13,7 @@ authors:
 - Marius Wuketich
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019'
 lastmod: 2021-03-24T14:53:30+01:00
 featured: false
 draft: false

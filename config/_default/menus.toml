@@ -27,16 +27,18 @@
   name = "Previous Research Topics"
   url = "#tags"
   weight = 50
-  
-  
+
+
   [[main]]
   name = "Teaching"  # A link title for your page.
   url = "#teaching"  # The URL of your page.
   weight = 60  # The position of your page in the menu
-  
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="tdkrause" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#FF813F" data-position="right" data-x_margin="18" data-y_margin="18"></script>

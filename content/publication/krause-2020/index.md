@@ -9,7 +9,7 @@ authors:
 - Thomas Krause
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020'
 lastmod: 2021-03-24T14:53:29+01:00
 featured: false
 draft: false
