@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: 'Einstellungen und Verhalten in der empirischen Sozialforschung: Analytische
-  Konzepte, Anwendungen und Analyseverfahren: Festschrift für Dieter Urban zum 65.
+  Konzepte, Anwendungen und Analyseverfahren : Festschrift für Dieter Urban zum 65.
   Geburtstag'
 subtitle: ''
 summary: ''
