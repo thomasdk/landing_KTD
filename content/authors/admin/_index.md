@@ -17,8 +17,8 @@ interests:
   - Quantitative Social Research
   - Machine Learning
   - Statistical Analysis
-  - Longitudinal Analysis
-  - Multilevel Analysis
+  - Longitudinal/Multilevel Analysis
+  - Monte Carlo Simulations
 social:
   - icon: envelope
     icon_pack: fas
