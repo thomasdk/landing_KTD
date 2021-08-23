@@ -71,7 +71,7 @@ subtitle = ""
 
 - Conference Talk 18.06.2021 (with PD Dr. Jens Jetzkowitz)\
 Frühjahrstagung DGS (Gemeinsame Frühjahrstagung der DGS-Sektionen „Methoden“ und „Umwelt“), Forschungszentrum Jülich, Institut für Energie- und Klimaforschung Systemforschung und Technologische Entwicklung (IEK-STE)
-Topic: **"Kausalwald-Modelle im Reich der biologischen Vielfalt: Ein kausales Machine Learning Verfahren zur  Qualitätssicherung bei Befragungsthemen mit ausgeprägter Sozialer Erwünschtheit"**
+Topic: [**"Kausalwald-Modelle im Reich der biologischen Vielfalt: Ein kausales Machine Learning Verfahren zur  Qualitätssicherung bei Befragungsthemen mit ausgeprägter Sozialer Erwünschtheit"**](https://download.fz-juelich.de/uk/2_Qualitaet-in-der-Umfrage-sichern.mp4)
 
 - Online Conference Talk 10.10.2020\
 Mid-term Conference of Research Network 21 “Quantitative Methods” of the European Sociological Association Quantitative Approaches
