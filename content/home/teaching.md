@@ -15,7 +15,9 @@ header:
 ---
 <font size="4">
 
-
+## winter semester 2021/2022:
+- Statistische Modellbildung: Statistische Modellbildung I (seminar)
+- Statistische Modellbildung: Statistische Modellbildung II (seminar)
 
 ## summer semester 2021:
 - Angewandte Forschungsmethodik I: Strukturgleichungsmodellierung I (seminar)
