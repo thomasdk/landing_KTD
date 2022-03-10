@@ -69,7 +69,7 @@ subtitle = ""
  css_class = ""
 +++
 - Conference Talk 10.03.2022 (with PD Dr. Jens Jetzkowitz)\
-Frühjahrstagung 2022 der DGS-Sektion Wirtschaftssoziologie, 10. + 11. März 2022
+Frühjahrstagung 2022 der DGS-Sektion Wirtschaftssoziologie, 10. + 11. März 2022,
 Topic: **"Mit alternativen Geldanlagen die Welt verbessern? – Determinanten der Integration von Umwelt, Sozial- und Governance-Kriterien (ESG) in den Anlagestrategien institutioneller Investoren"**
 
 - Conference Talk 18.06.2021 (with PD Dr. Jens Jetzkowitz)\
