@@ -21,7 +21,7 @@ subtitle = ""
   font_size_max = 2.0
 +++
 
-- Response Styles
+- Response Styles / Insufficient Effort Responding
 - Indirect Questioning Techniques
 - Structural Equation Modeling
 - Measurement Invariance
