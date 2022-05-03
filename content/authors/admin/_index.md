@@ -2,6 +2,8 @@
 organizations:
   - name: University of Stuttgart
     url: https://www.sowi.uni-stuttgart.de/institut/team/Krause-00003/
+  - name: University of Hohenheim
+    url: https://gluecksspiel.uni-hohenheim.de/index.php?id=146617
 superuser: true
 authors:
   - admin
@@ -9,7 +11,7 @@ title: Dr. Thomas Krause
 role: Research Associate
 avatar_filename: avatar1.jpg
 bio: Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social
-  Sciences at the University of Stuttgart. His core research areas include
+  Sciences at the University of Stuttgart and the Gambling Research Center at the University of Hohenheim. His core research areas include
   methods of empirical social research, statistical learning and modeling,
   longitudinal analysis methods, and prejudice research.
 interests:
@@ -23,6 +25,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:thomas.krause@sowi.uni-stuttgart.de
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:thomas.krause@uni-hohenheim.de
   - icon: github
     icon_pack: ai
     link: https://github.com/thomasdk
@@ -51,4 +56,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social Sciences at the University of Stuttgart. His core research areas include methods of empirical social research, statistical learning and modeling, longitudinal analysis methods, and prejudice research.
+Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social Sciences at the University of Stuttgart and the Gambling Research Center at the University of Hohenheim. His core research areas include methods of empirical social research, statistical learning and modeling, longitudinal analysis methods, and prejudice research.
