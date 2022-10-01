@@ -68,6 +68,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Conference Talk 27.09.2022\
+41. Kongress der Deutschen Gesellschaft für Soziologie 2022,\
+Sektion Methoden der empirischen Sozialforschung: Aktuelle Themen der empirischen Sozialforschung,\
+Topic: **"Insufficient Effort Responding bei jugendlichen Befragten: Messung und Ausmaß"**
+
 - Conference Talk 10.03.2022 (with PD Dr. Jens Jetzkowitz)\
 Frühjahrstagung 2022 der DGS-Sektion Wirtschaftssoziologie, 10. + 11. März 2022,
 Topic: **"Mit alternativen Geldanlagen die Welt verbessern? – Determinanten der Integration von Umwelt, Sozial- und Governance-Kriterien (ESG) in den Anlagestrategien institutioneller Investoren"**
