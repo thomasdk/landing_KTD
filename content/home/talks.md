@@ -70,7 +70,7 @@ subtitle = ""
 +++
 
 - Conference Talk 27.09.2022
-41. Kongress der Deutschen Gesellschaft für Soziologie 2022,\
+Kongress der Deutschen Gesellschaft für Soziologie 2022 (No. 41),\
 Sektion Methoden der empirischen Sozialforschung: Aktuelle Themen der empirischen Sozialforschung,\
 Topic: **"Insufficient Effort Responding bei jugendlichen Befragten: Messung und Ausmaß"**
 
