@@ -68,7 +68,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Conference Talk 27.09.2022\
+
+- Conference Talk 27.09.2022
 41. Kongress der Deutschen Gesellschaft für Soziologie 2022,\
 Sektion Methoden der empirischen Sozialforschung: Aktuelle Themen der empirischen Sozialforschung,\
 Topic: **"Insufficient Effort Responding bei jugendlichen Befragten: Messung und Ausmaß"**
