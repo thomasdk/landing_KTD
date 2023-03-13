@@ -37,6 +37,6 @@ publishDate: '2023-02-24T14:53:29+01:00'
 publication_types:
 - '2'
 abstract: 'Der Bericht „Jugendstudie Baden-Württemberg 2022 “ informiert bereits zum sechsten Mal über die Einstellungen der Jugend Baden-Württembergs zu Themen rund um Politik und Gesellschaft. Erstmals wurde die Studie von einem Team der Universität Stuttgart durchgeführt, sodass im Vergleich zu früheren Erhebungsrunden methodisch einige Neuerungen anzutreffen sind. Die Befragung von Neuntklässlerinnen und Neuntklässlern fand im Frühjahr 2022 statt; sie erfolgte damit unter dem Eindruck des Krieges in der Ukraine und während die Corona-Pandemie nach mittlerweile zwei Jahren noch immer unseren Alltag mitbestimmt.'
-publication: '**'
+publication: ''
 doi: 
 ---
