@@ -20,7 +20,7 @@ subtitle = ""
   font_size_min = 0.7
   font_size_max = 2.0
 +++
-
+- Algorithm-based early detection of problem gambling behavior
 - Response Styles / Insufficient Effort Responding
 - Indirect Questioning Techniques
 - Structural Equation Modeling
