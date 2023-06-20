@@ -16,7 +16,7 @@ header:
 <font size="4">
 
 ## winter semester 2022/2023:
-- Statistische Modellbildung: Statistische Modellbildung I (seminar)
+- [Statistische Modellbildung: Statistische Modellbildung I](https://www.youtube.com/playlist?list=PLzekrFjliAfCMoGCX2TznQ2Ny7cO7yYeu) (seminar)
 
 ## winter semester 2021/2022:
 - Statistische Modellbildung: Statistische Modellbildung I (seminar)
