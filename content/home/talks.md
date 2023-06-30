@@ -68,6 +68,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Conference Talk 29.06.2023
+Current Advances in Gambling Research (CAGR) Conference (June 28th and 29th) at King’s College London
+Topic: **"Predicting sports betting player suspensions by algorithm: potentials, limitations, and recommendations."**
 
 - Conference Talk 27.09.2022
 Kongress der Deutschen Gesellschaft für Soziologie 2022 (No. 41),
