@@ -1,15 +1,15 @@
 ---
 organizations:
-  - name: University of Stuttgart
-    url: https://www.sowi.uni-stuttgart.de/institut/team/Krause-00003/
   - name: University of Hohenheim
     url: https://gluecksspiel.uni-hohenheim.de/index.php?id=146617
+  - name: University of Stuttgart
+    url: https://www.sowi.uni-stuttgart.de/institut/team/Krause-00003/
 superuser: true
 authors:
   - admin
 title: Dr. Thomas Krause
 role: Senior Research Associate
-avatar_filename: avatar_new.jpg
+avatar_filename: avatar1.jpg
 bio: Dr. Thomas Krause is a postdoctoral researcher the Gambling Research Center at the University of Hohenheim and a visiting scholar at the Institute for Social
   Sciences at the University of Stuttgart . His core research areas include
   methods of empirical social research, statistical learning and modeling, LLM Applications,
