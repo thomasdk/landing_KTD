@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "Previous Research Topics"
+  name = "Previous Research"
   url = "#tags"
   weight = 50
 
