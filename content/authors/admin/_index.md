@@ -10,7 +10,7 @@ authors:
 title: Dr. Thomas Krause
 role: Senior Research Associate
 avatar_filename: avatar1.jpg
-bio: Dr. Thomas Krause is a postdoctoral researcher the Gambling Research Center at the University of Hohenheim and a visiting scholar at the Institute for Social
+bio: Dr. Thomas Krause is a postdoctoral researcher the Gambling Research Center at the University of Hohenheim and Research Fellow at the Institute for Social
   Sciences at the University of Stuttgart . His core research areas include
   methods of empirical social research, statistical learning and modeling, LLM Applications,
   longitudinal analysis methods, prejudice and gambling research.
@@ -60,7 +60,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Thomas Krause is a postdoctoral researcher the Gambling Research Center at the University of Hohenheim and a visiting scholar at the Institute for Social
+Dr. Thomas Krause is a postdoctoral researcher the Gambling Research Center at the University of Hohenheim and Research Fellow at the Institute for Social
   Sciences at the University of Stuttgart . His core research areas include
   methods of empirical social research, statistical learning and modeling, LLM Applications,
   longitudinal analysis methods, prejudice and gambling research.
