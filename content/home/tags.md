@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Previous Research Topics"
+title = "Previous Research Topics and commissioned Reports"
 subtitle = ""
 
 [content]
@@ -31,3 +31,10 @@ subtitle = ""
 - Hybrid Panel Models
 - Ingroup/Outgroup Attitudes
 - Subjective Well-Being
+
+Unpublished commissioned reports:
+- Krause, T., Otterbach, S. 2023: Analyse der möglichen Auswirkungen einer Preiserhöhung von Gewinnsparlosen, Forschungsstelle Glücksspiel, Universität Hohenheim
+- Krause, T., Wöhr, A.,  Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des Sparkassenverbands Bayern, Forschungsstelle Glücksspiel, Universität Hohenheim
+- Wöhr, A., Krause, T., Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des VR Gewinnsparvereins Bayern eV , Forschungsstelle Glücksspiel, Universität Hohenheim
+
+
