@@ -19,7 +19,9 @@ subtitle = ""
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min = 0.7
   font_size_max = 2.0
+
 +++
+**Previous Topics:**
 - Algorithm-based early detection of problem gambling behavior
 - Response Styles / Insufficient Effort Responding
 - Indirect Questioning Techniques
@@ -32,7 +34,7 @@ subtitle = ""
 - Ingroup/Outgroup Attitudes
 - Subjective Well-Being
 
-Commissioned Reports:
+**Commissioned Reports:**
 - Krause, T., Otterbach, S. 2023: Analyse der möglichen Auswirkungen einer Preiserhöhung von Gewinnsparlosen, Forschungsstelle Glücksspiel, Universität Hohenheim
 - Krause, T., Wöhr, A.,  Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des Sparkassenverbands Bayern, Forschungsstelle Glücksspiel, Universität Hohenheim
 - Wöhr, A., Krause, T., Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des VR Gewinnsparvereins Bayern eV, Forschungsstelle Glücksspiel, Universität Hohenheim
