@@ -68,6 +68,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Guest Lecture, 12.12.2023\
+Kolloquium "Forschungsfragen der Computational Social Science" of Prof. Dr. Raphael H. Heiberger, University of Stuttgart, (Germany)\
+Topic: **"Algorithmische Früherkennung von problematischen (Online-)Sportwettenden: Potenziale, Einschränkungen und Empfehlungen."**\
+
 - Conference Talk 29.06.2023\
 Current Advances in Gambling Research (CAGR) Conference (June 28th and 29th) at King’s College London, \
 Topic: **"Predicting sports betting player suspensions by algorithm: potentials, limitations, and recommendations."**
