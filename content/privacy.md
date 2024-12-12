@@ -10,5 +10,10 @@ header:
   image: ""
 ---
 # Contact
-thomas.krause[_at_]uni-hohenheim.de
+Dr. Thomas Krause
 thomas.krause[_at_]sowi.uni-stuttgart.de
+Universität Stuttgart
+Institut für Sozialwissenschaften, SOWI IV
+Soziologie mit Schwerpunkt sozialwiss. Forschungsmethoden
+Seidenstr. 36,
+70174 Stuttgart 
