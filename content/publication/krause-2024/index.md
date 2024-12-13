@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2024-12-13'
-lastmod: 2024-12-13T14:53:29+01:00
+lastmod: 2024-12-12T14:53:29+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-12-13T14:53:29+01:00'
+publishDate: '2024-12-12T14:53:29+01:00'
 publication_types:
 - '2'
 abstract: 'This report documents the development, test, and application of Large Language Models (LLMs) for automated text analysis, with a specific focus on gambling-like elements in digital games, such as lootboxes. The project aimed not only to analyse user opinions and attitudes towards these mechanics, but also to advance methodological research in text analysis. By employing prompting techniques and iterative prompt refinement processes, the study sought to test and improve the accuracy of LLM-based text analysis. The findings indicate that while LLMs can effectively identify relevant patterns and themes on par with human coders, there are still challenges in handling more complex tasks, underscoring the need for ongoing refinement in methodologies. The methodological advancements achieved through this study significantly enhance the application of LLMs in real-world text analysis. The research provides valuable insights into how these models can be better utilized to analyze complex, user-generated content.'

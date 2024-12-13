@@ -3,7 +3,7 @@
 
 title: 'Sozial erwünschtes Bewusstsein für biologische Vielfalt?'
 subtitle: 'Ein neuer Zugang zu einem bekannten Problem mit normativ
-aufgeladenen Befragungsthemen1'
+aufgeladenen Befragungsthemen'
 summary: ''
 authors:
 - Thomas Krause
