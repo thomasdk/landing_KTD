@@ -68,6 +68,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Session Moderation, 26.02.2025\  
+  22nd Gambling Symposium, University of Hohenheim, (Germany)\
+  Topic: **"Research Findings from Germany, Austria, and Switzerland – Youth and Gambling: Microtransactions, Advertising, and the Impact of Parental Gambling Addiction"**
+
 - Guest Lecture, 12.12.2023\
 Kolloquium "Forschungsfragen der Computational Social Science" of Prof. Dr. Raphael H. Heiberger, University of Stuttgart, (Germany)\
 Topic: **"Algorithmische Früherkennung von problematischen (Online-)Sportwettenden: Potenziale, Einschränkungen und Empfehlungen."**
