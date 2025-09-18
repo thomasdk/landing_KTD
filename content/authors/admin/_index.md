@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: University of Hohenheim
-    url: https://gluecksspiel.uni-hohenheim.de/index.php?id=146617
+    url: https://gluecksspiel.uni-hohenheim.de/ueberuns#jfmulticontent_c563559-3
   - name: University of Stuttgart
     url: https://www.sowi.uni-stuttgart.de/institut/team/Krause-00003/
 superuser: true
