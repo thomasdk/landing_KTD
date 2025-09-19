@@ -70,7 +70,7 @@ subtitle = ""
 +++
 
 - Conference Talk, 17.07.2025\  
-  European Survey Research Association (ESRA) Conference 2025, Utrecht (Netherlands) \\
+  European Survey Research Association (ESRA) Conference 2025, Utrecht (Netherlands)\
   Topic: **"The Use and Pitfalls of Indirect Questioning Techniques: A Systematic Review of Methodological Advances and Research Applications"**
   
 - Session Moderation, 26.02.2025\  
@@ -82,7 +82,7 @@ subtitle = ""
   Topic: **"Algorithmische Früherkennung von problematischen (Online-)Sportwettenden: Potenziale, Einschränkungen und Empfehlungen."**
 
 - Conference Talk 29.06.2023\
-  Current Advances in Gambling Research (CAGR) Conference (June 28th and 29th) at King’s College London, \
+  Current Advances in Gambling Research (CAGR) Conference (June 28th and 29th) at King’s College London,\
   Topic: **"Predicting sports betting player suspensions by algorithm: potentials, limitations, and recommendations."**
 
 - Conference Talk 27.09.2022\
