@@ -22,6 +22,7 @@ subtitle = ""
 
 +++
 **Previous Topics:**
+- LLM-based Entity Extraction and Sentiment Analysis
 - Algorithm-based early detection of problem gambling behavior
 - Response Styles / Insufficient Effort Responding
 - Indirect Questioning Techniques
