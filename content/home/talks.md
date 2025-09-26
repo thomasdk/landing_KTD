@@ -71,13 +71,13 @@ subtitle = ""
 
 - Conference Talk, 24.09.2025  
  RC33 – 11th International Conference on Social Science Methodology (Naples, Italy)  
- Topic: “AI-Assisted Systematic Literature Review: The Use and Pitfalls of Indirect Questioning Techniques” (with Clara Groß and Susanne Vogl)
+ Topic: *“AI-Assisted Systematic Literature Review: The Use and Pitfalls of Indirect Questioning Techniques”* (Co-authors: Clara Groß and Susanne Vogl)
 
-- Conference Talk, 17.07.2025\  
-  European Survey Research Association (ESRA) Conference 2025, Utrecht (Netherlands)\
+- Conference Talk, 17.07.2025\
+  European Survey Research Association (ESRA) Conference 2025, Utrecht (Netherlands)
   Topic: **"The Use and Pitfalls of Indirect Questioning Techniques: A Systematic Review of Methodological Advances and Research Applications"**
   
-- Session Moderation, 26.02.2025\  
+- Session Moderation, 26.02.2025
   22nd Gambling Symposium, University of Hohenheim, (Germany)\  
   Topic: **"Research Findings from Germany, Austria, and Switzerland – Youth and Gambling: Microtransactions, Advertising, and the Impact of Parental Gambling Addiction"**
 
