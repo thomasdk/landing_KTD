@@ -21,8 +21,9 @@ subtitle = ""
   font_size_max = 2.0
 
 +++
+
 **Previous Topics:**
-- LLM-based Entity Extraction and Sentiment Analysis
+- LLM-based Entity/Information Extraction and Analysis
 - Algorithm-based early detection of problem gambling behavior
 - Response Styles / Insufficient Effort Responding
 - Indirect Questioning Techniques
@@ -36,8 +37,7 @@ subtitle = ""
 - Subjective Well-Being
 
 **Commissioned Reports:**
+
 - Krause, T., Otterbach, S. 2023: Analyse der möglichen Auswirkungen einer Preiserhöhung von Gewinnsparlosen, Forschungsstelle Glücksspiel, Universität Hohenheim
-- Krause, T., Wöhr, A.,  Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des Sparkassenverbands Bayern, Forschungsstelle Glücksspiel, Universität Hohenheim
+- Krause, T., Wöhr, A., Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des Sparkassenverbands Bayern, Forschungsstelle Glücksspiel, Universität Hohenheim
 - Wöhr, A., Krause, T., Otterbach, S. 2023: Wissenschaftliche Evaluierung der Implementation des Sozialkonzepts des VR Gewinnsparvereins Bayern eV, Forschungsstelle Glücksspiel, Universität Hohenheim
-
-

@@ -56,4 +56,4 @@ user_groups:
   - Visitors
 ---
 
-Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social Sciences at the University of Stuttgart. His core research areas include methods of empirical social research, statistical learning and modeling, LLM Applications, longitudinal analysis methods, prejudice and gambling research.
+Dr. Thomas Krause is a postdoctoral researcher at the Institute for Social Sciences at the University of Stuttgart. His core research areas include methods of empirical social research, statistical learning and modeling, LLM Applications, longitudinal analysis methods, prejudice, sensitive topics and addiction research.
