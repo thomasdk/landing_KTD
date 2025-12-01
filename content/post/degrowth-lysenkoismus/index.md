@@ -15,8 +15,8 @@ categories:
 - Essays
 - Political Commentary
 - Science Critique
-date: "2025-11-15T00:00:00Z"
-lastmod: "2025-11-15T00:00:00Z"
+date: "2025-07-02T00:00:00Z"
+lastmod: "2025-07-02T00:00:00Z"
 featured: false
 draft: false
 
@@ -68,8 +68,6 @@ Es ist der neue Lysenkoismus — nicht im Agrarlabor, sondern im Seminarraum. Au
 Doch all das wäre bloß akademischer Unfug mit Unterhaltungswert — wenn es nicht reale Folgen hätte. Denn Energiearmut ist keine Denkfigur, sondern ein handfester Verarmungsmotor. Wo Energie knapp und teuer wird, steigen Produktionskosten, sinkt Beschäftigung, steigen Lebenshaltungskosten — und am Ende fällt das Netz des Sozialen. Weniger Energie heißt immer auch: weniger Chancen, weniger Teilhabe, weniger Leben. Nicht im metaphorischen Sinn, sondern messbar: niedrigere Lebenserwartung, schlechtere Bildung, kalte Wohnungen, verschlechterte medizinische Versorgung.
 
 Was hier als „Transformation" verkauft wird, ist in Wahrheit ein gefährlicher Rückbau — orchestriert von einer selbstgerechten Boheme, die sich ihre demonstrative Askese mit Netflix-Abo, Lastenrad und sicherer Drittmittelstelle vergoldet. Während andere mit der Realität kämpfen, nicht mit Narrativen, inszenieren sie den Verzicht als moralische Überlegenheit. Es ist das Projekt einer ideologisierten Elite, die glaubt, besser zu wissen, was gut für die Menschen ist — und die bereit ist, sie notfalls von ihrem eigenen Leben zu „befreien". Von Konsum, von Wahlmöglichkeiten, von Verantwortung. 
-
-## Das autoritäre Projekt
 
 Denn was sich hinter der Degrowth-Vision wirklich verbirgt, ist nichts anderes als ein **autoritäres Projekt gegen das Individuum** — und gegen die Würde der realen Welt.
 

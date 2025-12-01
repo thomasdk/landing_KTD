@@ -14,8 +14,8 @@ tags:
 categories:
 - Essays
 - AI Commentary
-date: "2025-12-01T00:00:00Z"
-lastmod: "2025-12-01T00:00:00Z"
+date: "2025-07-16T00:00:00Z"
+lastmod: "2025-07-16T00:00:00Z"
 featured: true
 draft: false
 
